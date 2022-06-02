@@ -1,0 +1,10 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\bin\Debug\netcoreapp2.1\ModelEntities.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\bin\Debug\netcoreapp2.1\ModelEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\bin\Debug\netcoreapp2.1\ModelEntities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\ModelEntities\obj\Debug\netcoreapp2.1\ModelEntities.pdb

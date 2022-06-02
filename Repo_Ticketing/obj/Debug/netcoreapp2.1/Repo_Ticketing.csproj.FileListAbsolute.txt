@@ -1,0 +1,10 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\bin\Debug\netcoreapp2.1\Repo_Ticketing.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\bin\Debug\netcoreapp2.1\Repo_Ticketing.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\bin\Debug\netcoreapp2.1\Repo_Ticketing.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Repo_Ticketing\obj\Debug\netcoreapp2.1\Repo_Ticketing.pdb

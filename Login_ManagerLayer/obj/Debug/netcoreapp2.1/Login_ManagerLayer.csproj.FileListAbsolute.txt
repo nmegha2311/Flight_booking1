@@ -1,0 +1,14 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\Login_ManagerLayer.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\Login_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\Login_ManagerLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\LoginEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\Login_RepoLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\Login_RepoLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\bin\Debug\netcoreapp2.1\LoginEntities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Login_ManagerLayer\obj\Debug\netcoreapp2.1\Login_ManagerLayer.pdb

@@ -1,0 +1,17 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.runtimeconfig.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.runtimeconfig.dev.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\obj\Debug\netcoreapp2.1\FlightSearch_Repolayer.genruntimeconfig.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\Flight_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\Flight_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\ModelEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FlightSearch_Repolayer\bin\Debug\netcoreapp2.1\ModelEntities.pdb

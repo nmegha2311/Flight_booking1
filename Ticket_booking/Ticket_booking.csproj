@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Customer_Entities\Customer_Entities.csproj" />
+    <ProjectReference Include="..\LoginEntities\LoginEntities.csproj" />
+    <ProjectReference Include="..\Ticketing_ManagerLayer\Ticketing_ManagerLayer.csproj" />
+    <ProjectReference Include="..\Ticketing_RepoLayer\Ticketing_RepoLayer.csproj" />
+  </ItemGroup>
+
+</Project>

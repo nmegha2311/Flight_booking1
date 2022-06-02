@@ -1,0 +1,13 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\bin\Release\netcoreapp2.1\Flight_Entities.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\bin\Release\netcoreapp2.1\Flight_Entities.runtimeconfig.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\bin\Release\netcoreapp2.1\Flight_Entities.runtimeconfig.dev.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\bin\Release\netcoreapp2.1\Flight_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\bin\Release\netcoreapp2.1\Flight_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Flight_Entities\obj\Release\netcoreapp2.1\Flight_Entities.genruntimeconfig.cache

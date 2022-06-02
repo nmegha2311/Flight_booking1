@@ -1,0 +1,16 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\FightSearch_ManagerLayer.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\FightSearch_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\FightSearch_ManagerLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\FlightSearch_Repolayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\obj\Debug\netcoreapp2.1\FightSearch_ManagerLayer.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\Flight_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\Flight_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\ModelEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\FightSearch_ManagerLayer\bin\Debug\netcoreapp2.1\ModelEntities.pdb

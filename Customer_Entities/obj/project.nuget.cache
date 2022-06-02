@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7YsZZRs2bhfkVtGjatcaKdiAl0La4/60QpRt4sFcETe1xowLEf0HmvJGoZtCdRkKtQaCosQ1XLYJLHczQ6rGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cogdotnet27\\source\\repos\\FlightBooking\\Customer_Entities\\Customer_Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cogdotnet27\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

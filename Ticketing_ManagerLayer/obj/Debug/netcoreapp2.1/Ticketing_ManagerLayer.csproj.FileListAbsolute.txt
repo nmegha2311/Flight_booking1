@@ -1,0 +1,16 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Ticketing_ManagerLayer.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Ticketing_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Ticketing_ManagerLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\obj\Debug\netcoreapp2.1\Ticketing_ManagerLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Customer_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Ticketing_RepoLayer.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Ticketing_RepoLayer.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\Customer_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\ModelEntities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_ManagerLayer\bin\Debug\netcoreapp2.1\ModelEntities.pdb

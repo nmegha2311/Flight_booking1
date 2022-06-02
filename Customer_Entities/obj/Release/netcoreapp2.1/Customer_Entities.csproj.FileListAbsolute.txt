@@ -1,0 +1,10 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\bin\Release\netcoreapp2.1\Customer_Entities.deps.json
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\bin\Release\netcoreapp2.1\Customer_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\bin\Release\netcoreapp2.1\Customer_Entities.pdb
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.dll
+C:\Users\cogdotnet27\source\repos\FlightBooking\Customer_Entities\obj\Release\netcoreapp2.1\Customer_Entities.pdb

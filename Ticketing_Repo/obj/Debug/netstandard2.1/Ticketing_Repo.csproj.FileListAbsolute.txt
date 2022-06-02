@@ -1,0 +1,5 @@
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_Repo\obj\Debug\netstandard2.1\Ticketing_Repo.csproj.AssemblyReference.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_Repo\obj\Debug\netstandard2.1\Ticketing_Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_Repo\obj\Debug\netstandard2.1\Ticketing_Repo.AssemblyInfoInputs.cache
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_Repo\obj\Debug\netstandard2.1\Ticketing_Repo.AssemblyInfo.cs
+C:\Users\cogdotnet27\source\repos\FlightBooking\Ticketing_Repo\obj\Debug\netstandard2.1\Ticketing_Repo.csproj.CoreCompileInputs.cache
